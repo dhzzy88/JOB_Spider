@@ -24,7 +24,11 @@ class SarayToInt:
                     self.tmp.append(0)
                     self.tmp.append(3)
                 else:
-                    self.tmp.append(abs(int(num)))
+                    try:
+                        self.tmp.append(abs(int(num)))
+                    except ValueError:
+                        self.tmp.append(abs(int(float(num))))
+
         self.up = 0
         self.down = 0
 
@@ -35,7 +39,7 @@ class SarayToInt:
 
 if __name__ == '__main__':
     # 这个模块不单独使用下面代码只是在测试程序时用
-    datatest = "20K-30K,20K-40K,20K-40K,20K-30K,15K-30K,15K-30K,15K-25K,20K-30K,10K-20K,薪资面议"
+    datatest = "12.5K-30K,20K-40K,20K-40K,12.5K-30K,15K-30K,15K-30K,15K-25K,20K-30K,10K-20K,薪资面议"
     dats = datatest.split(",")
     for d in dats:
         Sa = SarayToInt(d)
