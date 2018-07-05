@@ -1,0 +1,104 @@
+1530790864676	geckodriver	INFO	geckodriver 0.20.0
+1530790864681	geckodriver	INFO	Listening on 127.0.0.1:37619
+1530790865626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.5RT30a0zC4hP"
+*** You are running in headless mode.
+1530790868593	Marionette	INFO	Listening on port 33073
+1530790868639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530790877126	geckodriver	INFO	geckodriver 0.20.0
+1530790877130	geckodriver	INFO	Listening on 127.0.0.1:59745
+1530790878078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.AK3lEtDlcgbN"
+*** You are running in headless mode.
+1530790881093	Marionette	INFO	Listening on port 43471
+1530790881192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530790886901	geckodriver	INFO	geckodriver 0.20.0
+1530790886908	geckodriver	INFO	Listening on 127.0.0.1:44123
+1530790887808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.ulxDceL8axGN"
+*** You are running in headless mode.
+1530790891646	Marionette	INFO	Listening on port 45145
+1530790891731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530790934684	geckodriver	INFO	geckodriver 0.20.0
+1530790934694	geckodriver	INFO	Listening on 127.0.0.1:59747
+1530790935593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.9x7MFjKQHOC9"
+*** You are running in headless mode.
+1530790938664	Marionette	INFO	Listening on port 33533
+1530790938718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530790949802	geckodriver	INFO	geckodriver 0.20.0
+1530790949807	geckodriver	INFO	Listening on 127.0.0.1:60739
+1530790950691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.hM67wr3aQqCf"
+*** You are running in headless mode.
+1530790954135	Marionette	INFO	Listening on port 34223
+1530790954207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530790969010	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530791288556	geckodriver	INFO	geckodriver 0.20.0
+1530791288560	geckodriver	INFO	Listening on 127.0.0.1:49933
+1530791289516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.zXe3MAQiLTbW"
+*** You are running in headless mode.
+1530791293759	Marionette	INFO	Listening on port 35231
+1530791293835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530791300554	geckodriver	INFO	geckodriver 0.20.0
+1530791300559	geckodriver	INFO	Listening on 127.0.0.1:54845
+1530791301480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.RyjzB0OoK742"
+*** You are running in headless mode.
+1530791305979	Marionette	INFO	Listening on port 37273
+1530791306004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530791434761	geckodriver	INFO	geckodriver 0.20.0
+1530791434766	geckodriver	INFO	Listening on 127.0.0.1:34013
+1530791435704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.UJXDnQd5m14t"
+*** You are running in headless mode.
+1530791440219	Marionette	INFO	Listening on port 38389
+1530791440913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530791450765	geckodriver	INFO	geckodriver 0.20.0
+1530791450867	geckodriver	INFO	Listening on 127.0.0.1:34913
+1530791451270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.LPXcbJTScbKl"
+*** You are running in headless mode.
+1530791470254	Marionette	INFO	Listening on port 36793
+1530791471639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530791479924	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1530791592403	geckodriver	INFO	geckodriver 0.20.0
+1530791592549	geckodriver	INFO	Listening on 127.0.0.1:33327
+1530791593292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.DwkdNNGT9wyk"
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1530791608735	Marionette	INFO	Listening on port 44909
+1530791608809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530791621396	geckodriver	INFO	geckodriver 0.20.0
+1530791621605	geckodriver	INFO	Listening on 127.0.0.1:37831
+1530791621983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.V9wHhQbLqDr3"
+*** You are running in headless mode.
+1530791656332	Marionette	INFO	Listening on port 46531
+1530791657069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530791795393	geckodriver	INFO	geckodriver 0.20.0
+1530791795417	geckodriver	INFO	Listening on 127.0.0.1:53531
+1530791796341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.U9Agx2iaYSZq"
+*** You are running in headless mode.
+1530792385539	geckodriver	INFO	geckodriver 0.20.0
+1530792385648	geckodriver	INFO	Listening on 127.0.0.1:56741
+1530792386326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.fi2ilgEhFG7y"
+*** You are running in headless mode.
+1530792426528	Marionette	INFO	Listening on port 38837
+1530792427550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530792449878	geckodriver	INFO	geckodriver 0.20.0
+1530792449934	geckodriver	INFO	Listening on 127.0.0.1:34289
+1530792450707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.GqilYBZUFbwv"
+*** You are running in headless mode.
+1530792571115	Marionette	INFO	Listening on port 36703
+1530792637026	geckodriver	INFO	geckodriver 0.20.0
+1530792637139	geckodriver	INFO	Listening on 127.0.0.1:39855
+1530792637180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.OeSyvlSlK0qS"
+*** You are running in headless mode.
+1530792649756	Marionette	INFO	Listening on port 46353
+1530792650821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530792661820	geckodriver	INFO	geckodriver 0.20.0
+1530792661826	geckodriver	INFO	Listening on 127.0.0.1:38069
+1530792662644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.dO2mR7F7GRc9"
+*** You are running in headless mode.
+1530792679445	Marionette	INFO	Listening on port 45455
+1530792680086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530792719990	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
