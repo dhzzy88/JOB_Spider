@@ -23,6 +23,7 @@ zhilian.spidefmain(JOB_KEY)
 """
 # 从数据库读取爬取的数据
 # 先得到的是元组name,salray，demand,welfare
+
 value = sqlDeal.sqlselect()
 # 工资上限，下限，平均值
 updata = np.array([], dtype=np.int)
